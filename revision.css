@@ -1,0 +1,43 @@
+{
+    padding:0;
+margin:0;
+box-sizing: border-box;
+}
+
+/*body{
+display: flex;
+align-items: center;
+justify-content: center;
+}*/
+
+.flag{
+    height: 180px;
+    width: 300px;
+    border: 1px solid black;
+    margin-left: 350px ;
+    margin-top: 200px ;
+}
+
+.saffron{
+    background-color: #ff9933;
+    height: 60px;
+}
+
+.white{
+    background-color: white;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+}
+
+.green{
+    background-color: green;
+    height: 60px;
+}
+
+.ashok-chakra{
+    width: 60px;
+    height: 60px;
+    border: 2px solid #1132c6;
+    border-radius: 50%;
+}
